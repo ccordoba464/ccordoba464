@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Camilo, a WPI CS new grad, passionate about creating software to solve real-world problems. I really enjoy learning languages and frameworks like React and Next.js. I also enjoy making music and playing basketball! You can check out my personal projects at: https://ccordoba464.github.io/. 
+
 <!--
 **ccordoba464/ccordoba464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
